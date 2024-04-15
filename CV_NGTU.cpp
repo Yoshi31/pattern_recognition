@@ -9,7 +9,7 @@ int main()
 {
     Mat img = imread("C:/Users/zayka/Source/Repos/CV_NGTU/img.jpg", IMREAD_COLOR);
     if (img.empty()) {
-        cout << "Изображение не загружено" << endl;
+        cout << "Unable to read the image \n" << endl;
         return -1;
     }
 
