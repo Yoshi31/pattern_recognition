@@ -23,6 +23,6 @@
 - При загрузке изображения убедитесь, что путь к изображению указан верно и изображение доступно для чтения.
 
  ## Пример работы программы
-![image](https://github.com/Yoshi31/pattern_recognition/assets/62884580/384418ef-63a7-48eb-b6d6-0b70035fb2ff)
+![image](https://github.com/Yoshi31/pattern_recognition/assets/62884580/76fbbea4-26da-4e81-9434-3234905f2bd9)
 
 
